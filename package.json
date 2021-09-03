@@ -39,6 +39,7 @@
     "@stdlib/math-iter-ops": "^0.0.x",
     "@stdlib/math-iter-sequences": "^0.0.x",
     "@stdlib/math-iter-special": "^0.0.x",
+    "@stdlib/math-iter-tools": "^0.0.x",
     "@stdlib/utils-define-read-only-property": "^0.0.x"
   },
   "devDependencies": {
@@ -305,6 +306,7 @@
     "@stdlib/math-iter-special-versin": "^0.0.x",
     "@stdlib/math-iter-tools-map": "^0.0.x",
     "@stdlib/math-iter-tools-map2": "^0.0.x",
+    "@stdlib/math-iter-tools-map3": "^0.0.x",
     "@stdlib/random-base-uniform": "^0.0.x",
     "@stdlib/random-iter-discrete-uniform": "^0.0.x",
     "@stdlib/random-iter-randu": "^0.0.x",
