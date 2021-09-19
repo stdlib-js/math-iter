@@ -60,6 +60,7 @@ The namespace contains the following sub-namespaces:
 -   <span class="signature">[`ops`][@stdlib/math/iter/ops]</span><span class="delimiter">: </span><span class="description">standard library math operator iterators.</span>
 -   <span class="signature">[`sequences`][@stdlib/math/iter/sequences]</span><span class="delimiter">: </span><span class="description">standard library math iterators for generating sequences.</span>
 -   <span class="signature">[`special`][@stdlib/math/iter/special]</span><span class="delimiter">: </span><span class="description">standard library math iterators for special functions.</span>
+-   <span class="signature">[`tools`][@stdlib/math/iter/tools]</span><span class="delimiter">: </span><span class="description">standard library math iterator tools.</span>
 
 </div>
 
@@ -160,6 +161,8 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@stdlib/math/iter/sequences]: https://github.com/stdlib-js/math-iter-sequences
 
 [@stdlib/math/iter/special]: https://github.com/stdlib-js/math-iter-special
+
+[@stdlib/math/iter/tools]: https://github.com/stdlib-js/math-iter-tools
 
 <!-- </toc-links> -->
 
