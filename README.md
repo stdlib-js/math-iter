@@ -22,7 +22,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
 
-> Standard library math iterators.
+> Math iterators.
 
 <section class="installation">
 
@@ -44,7 +44,7 @@ var ns = require( '@stdlib/math-iter' );
 
 #### ns
 
-Standard library math iterators.
+Namespace containing math iterators.
 
 ```javascript
 var iterators = ns;
