@@ -20,7 +20,7 @@ limitations under the License.
 
 # Math Iterators
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Math iterators.
 
@@ -57,10 +57,10 @@ The namespace contains the following sub-namespaces:
 
 <div class="namespace-toc">
 
--   <span class="signature">[`ops`][@stdlib/math/iter/ops]</span><span class="delimiter">: </span><span class="description">standard library math operator iterators.</span>
--   <span class="signature">[`sequences`][@stdlib/math/iter/sequences]</span><span class="delimiter">: </span><span class="description">standard library math iterators for generating sequences.</span>
--   <span class="signature">[`special`][@stdlib/math/iter/special]</span><span class="delimiter">: </span><span class="description">standard library math iterators for special functions.</span>
--   <span class="signature">[`tools`][@stdlib/math/iter/tools]</span><span class="delimiter">: </span><span class="description">standard library math iterator tools.</span>
+-   <span class="signature">[`ops`][@stdlib/math/iter/ops]</span><span class="delimiter">: </span><span class="description">math operator iterators.</span>
+-   <span class="signature">[`sequences`][@stdlib/math/iter/sequences]</span><span class="delimiter">: </span><span class="description">math iterators for generating sequences.</span>
+-   <span class="signature">[`special`][@stdlib/math/iter/special]</span><span class="delimiter">: </span><span class="description">math iterators for special functions.</span>
+-   <span class="signature">[`tools`][@stdlib/math/iter/tools]</span><span class="delimiter">: </span><span class="description">math iterator tools.</span>
 
 </div>
 
@@ -142,8 +142,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/math-iter/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/math-iter?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/math-iter.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/math-iter/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
