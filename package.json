@@ -307,7 +307,6 @@
     "@stdlib/math-iter-tools-map": "^0.0.x",
     "@stdlib/math-iter-tools-map2": "^0.0.x",
     "@stdlib/math-iter-tools-map3": "^0.0.x",
-    "@stdlib/random-base-uniform": "^0.0.x",
     "@stdlib/random-iter-discrete-uniform": "^0.0.x",
     "@stdlib/random-iter-randu": "^0.0.x",
     "@stdlib/random-iter-uniform": "^0.0.x",
