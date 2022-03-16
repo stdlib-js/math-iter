@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-iter",
-  "version": "0.0.6",
+  "version": "0.0.0",
   "description": "Math iterators.",
   "license": "Apache-2.0",
   "author": {
@@ -318,6 +318,7 @@
     "@stdlib/random-iter-randu": "^0.0.x",
     "@stdlib/random-iter-uniform": "^0.0.x",
     "@stdlib/simulate-iter-sine-wave": "^0.0.x",
+    "@stdlib/string-format": "^0.0.x",
     "@stdlib/symbol-iterator": "^0.0.x",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.0.x",
     "@stdlib/utils-fifo": "^0.0.x",
