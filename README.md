@@ -69,6 +69,7 @@ The namespace contains the following sub-namespaces:
 -   <span class="signature">[`sequences`][@stdlib/math/iter/sequences]</span><span class="delimiter">: </span><span class="description">math iterators for generating sequences.</span>
 -   <span class="signature">[`special`][@stdlib/math/iter/special]</span><span class="delimiter">: </span><span class="description">math iterators for special functions.</span>
 -   <span class="signature">[`tools`][@stdlib/math/iter/tools]</span><span class="delimiter">: </span><span class="description">math iterator tools.</span>
+-   <span class="signature">[`utils`][@stdlib/math/iter/utils]</span><span class="delimiter">: </span><span class="description">math utility iterators.</span>
 
 </div>
 
@@ -183,6 +184,8 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [@stdlib/math/iter/special]: https://github.com/stdlib-js/math-iter-special
 
 [@stdlib/math/iter/tools]: https://github.com/stdlib-js/math-iter-tools
+
+[@stdlib/math/iter/utils]: https://github.com/stdlib-js/math-iter-utils
 
 <!-- </toc-links> -->
 
