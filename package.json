@@ -44,7 +44,7 @@
     "@stdlib/utils-define-read-only-property": "^0.1.0"
   },
   "devDependencies": {
-    "@stdlib/array-to-iterator": "^0.0.6",
+    "@stdlib/array-to-iterator": "^0.1.0",
     "@stdlib/assert-has-own-property": "^0.1.0",
     "@stdlib/assert-is-array": "^0.1.0",
     "@stdlib/assert-is-composite": "^0.1.0",
@@ -314,9 +314,9 @@
     "@stdlib/math-iter-tools-map2": "^0.1.0",
     "@stdlib/math-iter-tools-map3": "^0.1.0",
     "@stdlib/math-iter-utils-continued-fraction": "^0.1.0",
-    "@stdlib/random-iter-discrete-uniform": "^0.0.6",
-    "@stdlib/random-iter-randu": "^0.0.6",
-    "@stdlib/random-iter-uniform": "^0.0.6",
+    "@stdlib/random-iter-discrete-uniform": "^0.1.0",
+    "@stdlib/random-iter-randu": "^0.1.0",
+    "@stdlib/random-iter-uniform": "^0.1.0",
     "@stdlib/simulate-iter-sine-wave": "^0.1.0",
     "@stdlib/string-format": "^0.1.0",
     "@stdlib/symbol-iterator": "^0.1.0",
