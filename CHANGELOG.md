@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-01)
+## Unreleased (2024-12-01)
 
 <section class="packages">
 
@@ -34,9 +34,55 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="math-iter-tools-unreleased">
+
+#### [@stdlib/math/iter/tools](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/math/iter/tools)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`8b1548f`](https://github.com/stdlib-js/stdlib/commit/8b1548fb45c1ff131f5edac20cb984344a2d28ec) - update namespace TypeScript declarations [(#3190)](https://github.com/stdlib-js/stdlib/pull/3190)
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`8b1548f`](https://github.com/stdlib-js/stdlib/commit/8b1548fb45c1ff131f5edac20cb984344a2d28ec): update namespace declarations
+
+    -   To migrate, users should consult the corresponding packages containing the respective implementations to determine what is breaking. The primary breakages come from the `blas/*` namespace, where we recently refactored how top-level BLAS APIs operate on input arguments.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
+
+<section class="breaking-changes">
+
+### BREAKING CHANGES
+
+-   [`8b1548f`](https://github.com/stdlib-js/stdlib/commit/8b1548fb45c1ff131f5edac20cb984344a2d28ec): update namespace declarations
+
+    -   To migrate, users should consult the corresponding packages containing the respective implementations to determine what is breaking. The primary breakages come from the `blas/*` namespace, where we recently refactored how top-level BLAS APIs operate on input arguments.
+
+</section>
+
+<!-- /.breaking-changes -->
 
 <section class="issues">
 
@@ -70,6 +116,8 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`7bfeb06`](https://github.com/stdlib-js/stdlib/commit/7bfeb066e6bfc209fce693c18ed3006495b3c206) - **style:** minor clean-up _(by Philipp Burckhardt)_
+-   [`8b1548f`](https://github.com/stdlib-js/stdlib/commit/8b1548fb45c1ff131f5edac20cb984344a2d28ec) - **feat:** update namespace TypeScript declarations [(#3190)](https://github.com/stdlib-js/stdlib/pull/3190) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`e469715`](https://github.com/stdlib-js/stdlib/commit/e46971500650a5dcf1c9734341de8aeaf4360468) - **docs:** improve README examples of `math/iter/sequences` [(#1779)](https://github.com/stdlib-js/stdlib/pull/1779) _(by Shivam, Philipp Burckhardt)_
 -   [`43ac1e7`](https://github.com/stdlib-js/stdlib/commit/43ac1e77bd764f110c19a3eb08421d0a4af9fc61) - **docs:** improve `math/iter/ops` examples [(#2008)](https://github.com/stdlib-js/stdlib/pull/2008) _(by Dominic Lim, Philipp Burckhardt)_
 -   [`b89c97c`](https://github.com/stdlib-js/stdlib/commit/b89c97ce0b812ff0b2aab16b4d77969d44fe3e8c) - **docs:** resolve lint errors in TS declaration files _(by Philipp Burckhardt)_
