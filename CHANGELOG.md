@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-13)
+## Unreleased (2025-03-17)
 
 <section class="packages">
 
@@ -100,8 +100,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Dominic Lim
 -   Philipp Burckhardt
 -   Shivam Ahir
@@ -116,6 +117,8 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`c1a5db2`](https://github.com/stdlib-js/stdlib/commit/c1a5db2bed5d1c9d32bf4df2fd592c734002d585) - **refactor:** update path _(by Athan Reines)_
+-   [`50843c9`](https://github.com/stdlib-js/stdlib/commit/50843c9502e3c9afa2f58d0957248e8ed3bd4609) - **docs:** update related packages sections [(#4808)](https://github.com/stdlib-js/stdlib/pull/4808) _(by stdlib-bot)_
 -   [`321e49e`](https://github.com/stdlib-js/stdlib/commit/321e49e9965648f1b5eb6a840fe454959af0ec49) - **docs:** add missing periods to list items _(by Philipp Burckhardt)_
 -   [`f317033`](https://github.com/stdlib-js/stdlib/commit/f3170337071651a2997d15ac194fc767570f2f75) - **docs:** update related packages sections [(#4040)](https://github.com/stdlib-js/stdlib/pull/4040) _(by stdlib-bot)_
 -   [`7e8187a`](https://github.com/stdlib-js/stdlib/commit/7e8187a766886c2fb9cdc356cf781f0a1802172c) - **docs:** update related packages sections [(#3368)](https://github.com/stdlib-js/stdlib/pull/3368) _(by stdlib-bot)_
