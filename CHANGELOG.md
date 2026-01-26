@@ -4,12 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-15)
+## Unreleased (2026-01-26)
 
 <section class="features">
 
 ### Features
 
+-   [`e32d84e`](https://github.com/stdlib-js/stdlib/commit/e32d84ee9a4de85373a4ca00013d3f5ac79b5497) - update `math/iter/utils` TypeScript declarations
+-   [`0cb4fa2`](https://github.com/stdlib-js/stdlib/commit/0cb4fa227526f827ed67d77ca97ef0eef3946d0d) - update `math/iter/sequences` TypeScript declarations
 -   [`774b270`](https://github.com/stdlib-js/stdlib/commit/774b270d053d49740326553d549f698c7a5e94c8) - add missing exports to namespaces
 -   [`8b1548f`](https://github.com/stdlib-js/stdlib/commit/8b1548fb45c1ff131f5edac20cb984344a2d28ec) - update namespace TypeScript declarations [(#3190)](https://github.com/stdlib-js/stdlib/pull/3190)
 
@@ -47,6 +49,13 @@ This release closes the following issue:
 
 <details>
 
+-   [`e7fbc24`](https://github.com/stdlib-js/stdlib/commit/e7fbc24f9fb918a92f7e9118fbe9fed8573117c8) - **docs:** fix example code in TSDoc declaration _(by Philipp Burckhardt)_
+-   [`5f5bb2d`](https://github.com/stdlib-js/stdlib/commit/5f5bb2d4277a24000b57fb07bc28d821500cd7e8) - **docs:** update namespace table of contents [(#8425)](https://github.com/stdlib-js/stdlib/pull/8425) _(by stdlib-bot, Athan Reines)_
+-   [`b7c2031`](https://github.com/stdlib-js/stdlib/commit/b7c20312491bdcf54ffc681e5fe489b9ba3d059c) - **docs:** clean-up TSDoc declaration comments _(by Philipp Burckhardt)_
+-   [`e32d84e`](https://github.com/stdlib-js/stdlib/commit/e32d84ee9a4de85373a4ca00013d3f5ac79b5497) - **feat:** update `math/iter/utils` TypeScript declarations _(by Philipp Burckhardt)_
+-   [`0cb4fa2`](https://github.com/stdlib-js/stdlib/commit/0cb4fa227526f827ed67d77ca97ef0eef3946d0d) - **feat:** update `math/iter/sequences` TypeScript declarations _(by Philipp Burckhardt)_
+-   [`14fbe2a`](https://github.com/stdlib-js/stdlib/commit/14fbe2a5ced542c4183b6cae8a5d369462a6023a) - **docs:** clean-up TypeScript declarations example code _(by Philipp Burckhardt)_
+-   [`af59fdf`](https://github.com/stdlib-js/stdlib/commit/af59fdfb5f2aae5ced449bd6ccddc012047f0089) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`774b270`](https://github.com/stdlib-js/stdlib/commit/774b270d053d49740326553d549f698c7a5e94c8) - **feat:** add missing exports to namespaces _(by Philipp Burckhardt)_
 -   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
