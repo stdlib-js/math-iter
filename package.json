@@ -38,13 +38,13 @@
   "dependencies": {
     "@stdlib/math-iter-ops": "^0.2.3",
     "@stdlib/math-iter-sequences": "^0.4.1",
-    "@stdlib/math-iter-special": "^0.2.2",
+    "@stdlib/math-iter-special": "^0.2.3",
     "@stdlib/math-iter-tools": "^0.3.1",
     "@stdlib/math-iter-utils": "^0.3.1",
     "@stdlib/utils-define-read-only-property": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/array-to-iterator": "^0.2.2",
+    "@stdlib/array-to-iterator": "^0.2.3",
     "@stdlib/assert-has-own-property": "^0.2.3",
     "@stdlib/assert-is-array": "^0.2.3",
     "@stdlib/assert-is-composite": "^0.2.3",
@@ -316,9 +316,9 @@
     "@stdlib/math-iter-tools-map2": "^0.2.3",
     "@stdlib/math-iter-tools-map3": "^0.2.3",
     "@stdlib/math-iter-utils-continued-fraction": "^0.2.3",
-    "@stdlib/random-iter-discrete-uniform": "^0.2.1",
-    "@stdlib/random-iter-randu": "^0.2.1",
-    "@stdlib/random-iter-uniform": "^0.2.1",
+    "@stdlib/random-iter-discrete-uniform": "^0.2.2",
+    "@stdlib/random-iter-randu": "^0.2.2",
+    "@stdlib/random-iter-uniform": "^0.2.2",
     "@stdlib/simulate-iter-sine-wave": "^0.2.3",
     "@stdlib/string-format": "^0.2.3",
     "@stdlib/symbol-iterator": "^0.2.3",
