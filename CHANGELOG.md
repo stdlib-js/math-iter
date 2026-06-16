@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-08)
+## Unreleased (2026-06-16)
 
 <section class="commits">
 
@@ -12,6 +12,11 @@
 
 <details>
 
+-   [`34bf00b`](https://github.com/stdlib-js/stdlib/commit/34bf00b30316178349622f2667bd3cb35eb9296b) - **docs:** add links [(#12844)](https://github.com/stdlib-js/stdlib/pull/12844) _(by Philipp Burckhardt)_
+-   [`406283c`](https://github.com/stdlib-js/stdlib/commit/406283c617ba87f829388e0dafb12caf15ba72db) - **docs:** update `math/iter/special` TypeScript declarations [(#12590)](https://github.com/stdlib-js/stdlib/pull/12590) _(by stdlib-bot)_
+-   [`4a19052`](https://github.com/stdlib-js/stdlib/commit/4a19052817bbcc805ca04e70a62c83caf4b3b826) - **docs:** update `math/iter/sequences` TypeScript declarations [(#12589)](https://github.com/stdlib-js/stdlib/pull/12589) _(by stdlib-bot)_
+-   [`2ef6b64`](https://github.com/stdlib-js/stdlib/commit/2ef6b64a00646808c45bd211bb421a52eabd0a41) - **docs:** fix TSDoc issues in several `math/iter` declarations [(#12462)](https://github.com/stdlib-js/stdlib/pull/12462) _(by Philipp Burckhardt, Athan Reines)_
+-   [`622d150`](https://github.com/stdlib-js/stdlib/commit/622d15033aa18a95fedfe4bfa1f66ac5799ef3f2) - **docs:** update related packages sections [(#12139)](https://github.com/stdlib-js/stdlib/pull/12139) _(by stdlib-bot)_
 -   [`2df9472`](https://github.com/stdlib-js/stdlib/commit/2df9472ff8b4c8dc5b693dac2f64516834d7a5b3) - **chore:** migrate `math/iter/special` examples to `random/iter/uniform` [(#11950)](https://github.com/stdlib-js/stdlib/pull/11950) _(by Philipp Burckhardt)_
 -   [`e090426`](https://github.com/stdlib-js/stdlib/commit/e0904262cee8ac4f036d0f74f6628f8ce95a16d0) - **bench:** refactor to use string interpolation in `math/iter` [(#11382)](https://github.com/stdlib-js/stdlib/pull/11382) _(by Karan Anand)_
 
@@ -25,8 +30,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
 -   Philipp Burckhardt
 
