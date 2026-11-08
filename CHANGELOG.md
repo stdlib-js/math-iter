@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-22)
+## Unreleased (2026-11-08)
 
 <section class="commits">
 
@@ -12,6 +12,10 @@
 
 <details>
 
+-   [`7bf6853`](https://github.com/stdlib-js/stdlib/commit/7bf68530dd12fe22f2ec82d68e1f9a591ab042c0) - **chore:** clean-up [(#16303)](https://github.com/stdlib-js/stdlib/pull/16303) _(by Philipp Burckhardt)_
+-   [`3afa371`](https://github.com/stdlib-js/stdlib/commit/3afa37120e0f463f15e23e3f1be97477ed2d549f) - **test:** migrate `math/iter/utils/continued-fraction` to ULP-based assertions [(#15621)](https://github.com/stdlib-js/stdlib/pull/15621) _(by Athan Reines)_
+-   [`8da0d15`](https://github.com/stdlib-js/stdlib/commit/8da0d154e408d6cd6b3381341173e8c41eac7e59) - **chore:** clean-up [(#15455)](https://github.com/stdlib-js/stdlib/pull/15455) _(by Philipp Burckhardt)_
+-   [`e8dc2a1`](https://github.com/stdlib-js/stdlib/commit/e8dc2a1d9217169d8c51ad84bce761040f8fe3fa) - **test:** migrate `math/iter/sequences/continued-fraction` to ULP-based assertions [(#15406)](https://github.com/stdlib-js/stdlib/pull/15406) _(by Athan Reines)_
 -   [`34bf00b`](https://github.com/stdlib-js/stdlib/commit/34bf00b30316178349622f2667bd3cb35eb9296b) - **docs:** add links [(#12844)](https://github.com/stdlib-js/stdlib/pull/12844) _(by Philipp Burckhardt)_
 -   [`406283c`](https://github.com/stdlib-js/stdlib/commit/406283c617ba87f829388e0dafb12caf15ba72db) - **docs:** update `math/iter/special` TypeScript declarations [(#12590)](https://github.com/stdlib-js/stdlib/pull/12590) _(by stdlib-bot)_
 -   [`4a19052`](https://github.com/stdlib-js/stdlib/commit/4a19052817bbcc805ca04e70a62c83caf4b3b826) - **docs:** update `math/iter/sequences` TypeScript declarations [(#12589)](https://github.com/stdlib-js/stdlib/pull/12589) _(by stdlib-bot)_
